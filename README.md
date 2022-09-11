@@ -10,7 +10,7 @@ PS Most of my projects are offline but I will be uploading them periodically.
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [murimi101@gmail.com](mailto:murimi101@gmail.com)
-* 🧠  I'm learning Flutter, Dart and Python
+* 🧠  I'm learning Flutter and Python
 * 🤝  I'm open to collaborating on All sorts of interesting projects especially those that are multifaceted in terms of concept adoption and idea integration.
 * ⚡  I secretly moonlight as an advocate but am happiest when coding.
 
