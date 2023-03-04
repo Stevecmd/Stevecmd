@@ -1,7 +1,7 @@
  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi! Welcome to my repo.
 ====================================================================================================================================
 
-🌟 Jnr. AWS Cloud engineer 🌟 Flutter Developer and designer, 🌟 Jnr. Python engineer 
+🌟 Jnr. AWS Cloud architect 🌟 Flutter Developer and designer, 🌟 Jnr. Python engineer 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 I have been learning to code since the covid pandemic started mid 2020 and so far it as been quite a fulfilling journey. I started of with HTML, JS, CSS, nodejs, MongoDB etc but have since found a passion for Flutter, Dart and Python. I made the switch from UI development towards software engineering as I have always loved to tinker with things more specifically computers and having both front end and backend skills helps me do just that.
