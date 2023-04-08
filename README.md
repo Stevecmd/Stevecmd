@@ -1,7 +1,14 @@
  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi! Welcome to my repo.
 ====================================================================================================================================
+<!-- Animation Typing -->
 
-🌟 AWS Cloud architect 🌟 Flutter Developer and designer, 🌟 Jnr. Python engineer 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I +am+Steve+Murimi.;I+am+a+Cloud+DevOps+Engineer;"></a>
+</p>
+
+<!-- Animation Typing: END -->
+====================================================================================================================================
+☁️ AWS Cloud architect 🌟 Flutter Developer and designer, 🌟 Jnr. Python engineer 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 I have been learning to code since the covid pandemic started mid 2020 and so far it as been quite a fulfilling journey. I started of with HTML, JS, CSS, nodejs, MongoDB etc but have since found a passion for Flutter, Dart and Python. I made the switch from UI development towards software engineering as I have always loved to tinker with things more specifically computers and having both front end and backend skills helps me do just that.
@@ -18,6 +25,14 @@ PS Most of my projects are offline but I will be uploading them periodically.
 <a href="https://www.twitter.com/stevedevex" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/stevedevex?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+
+## 🔧Technologies and Tools
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Hub-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Container_Runtime-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 ### Skills
 
@@ -40,13 +55,14 @@ src="https://img.shields.io/twitter/follow/stevedevex?logo=twitter&style=for-the
 </p>
 
 
-### Socials
+### Let's connect
 
 <p align="left"> <a href="https://www.github.com/Stevecmd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/steve-murimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/stevedevex" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+### 👀 View my Holopin badges
+[![@stevecmd's Holopin Board](https://holopin.me/stevecmd)](https://holopin.io/@stevecmd)
 
-<b>My GitHub Stats</b>
+<b>📈 My Github Stats</b>
 
 <a href="http://www.github.com/Stevecmd"><img src="https://github-readme-stats.vercel.app/api?username=Stevecmd&show_icons=true&hide=prs,contribs&count_private=true&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Stevecmd's GitHub stats" /></a>
 
