@@ -1,12 +1,14 @@
  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi! Welcome to my repo.
-====================================================================================================================================
+
 <!-- Animation Typing -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I +am+Steve+Murimi.;I+am+a+Cloud+DevOps+Engineer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Faith+Kovi.;I'm+a+DevOps+Engineer;"></a>
 </p>
 
 <!-- Animation Typing: END -->
+
+<hr>
 ====================================================================================================================================
 
 ☁️ AWS Cloud architect 🌟 Flutter Developer and designer, 🌟 Jnr. Python engineer 
