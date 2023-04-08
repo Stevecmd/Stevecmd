@@ -9,9 +9,8 @@
 <!-- Animation Typing: END -->
 
 <hr>
-====================================================================================================================================
 
-☁️ AWS Cloud architect 🌟 Flutter Developer and designer, 🌟 Jnr. Python engineer 
+☁️ AWS Cloud architect <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 🌟 Flutter Developer and designer, 🌟 Jnr. Python engineer 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 I have been learning to code since the covid pandemic started mid 2020 and so far it as been quite a fulfilling journey. I started of with HTML, JS, CSS, nodejs, MongoDB etc but have since found a passion for Flutter, Dart and Python. I made the switch from UI development towards software engineering as I have always loved to tinker with things more specifically computers and having both front end and backend skills helps me do just that.
