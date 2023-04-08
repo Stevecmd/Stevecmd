@@ -1,4 +1,6 @@
+ <p align="center">
  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi! Welcome to my repo.
+</p>
 
 <!-- Animation Typing -->
 
@@ -10,7 +12,7 @@
 
 <hr>
 
-☁️ AWS Cloud architect <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 🌟 Flutter Developer and designer, 🌟 Jnr. Python engineer 
+☁️ AWS Cloud architect 🌟 Flutter Developer and designer, 🌟 Jnr. Python engineer 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 I have been learning to code since the covid pandemic started mid 2020 and so far it as been quite a fulfilling journey. I started of with HTML, JS, CSS, nodejs, MongoDB etc but have since found a passion for Flutter, Dart and Python. I made the switch from UI development towards software engineering as I have always loved to tinker with things more specifically computers and having both front end and backend skills helps me do just that.
@@ -18,7 +20,7 @@ I have been learning to code since the covid pandemic started mid 2020 and so fa
 PS Most of my projects are offline but I will be uploading them periodically.
 
 * 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [murimi101@gmail.com](mailto:murimi101@gmail.com)
+* ✉️  Contact me at [murimi101@gmail.com](mailto:murimi101@gmail.com)
 * 🧠  Flutter and Python enthusiast.
 * 🧠  Making daily improvements in my AWS Cloud engineer journey.
 * 🤝  I'm open to collaborating on All sorts of interesting projects especially those that are multifaceted in terms of concept adoption and idea integration.
