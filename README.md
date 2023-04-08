@@ -47,10 +47,10 @@ src="https://img.shields.io/twitter/follow/stevedevex?logo=twitter&style=for-the
   <img src="https://img.shields.io/badge/Container_Runtime-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" alt="Docker"/>
 </div>
 
+<hr>
 
 <div align="center">
   <h2>🔧 Skills</h2>
-
 <p align="center">
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40" alt="Amazon Web Services" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -66,14 +66,19 @@ src="https://img.shields.io/twitter/follow/stevedevex?logo=twitter&style=for-the
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/d
 
+<hr>
 
 ### Let's connect
 
 <p align="centre"> <a href="https://www.github.com/Stevecmd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/steve-murimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/stevedevex" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+ 
+<hr>
 
 ### 👀 View my Holopin badges
 [![@stevecmd's Holopin Board](https://holopin.me/stevecmd)](https://holopin.io/@stevecmd)
 
+<hr>
+ 
 <b>📈 My Github Stats</b>
 
 <div align="center">
