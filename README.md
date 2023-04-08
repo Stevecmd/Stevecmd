@@ -33,9 +33,9 @@ PS Most of my projects are offline but I will be uploading them periodically.
 * 🤝  I'm open to collaborating on All sorts of interesting projects especially those that are multifaceted in terms of concept adoption and idea integration.
 * ⚡  I secretly moonlight as an advocate but am happiest when coding.
 
-<a href="https://www.twitter.com/stevedevex" target="_blank" rel="noreferrer"><img
+<div align="center"><a href="https://www.twitter.com/stevedevex" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/stevedevex?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+/></a></div>
 
 <div align="center">
   <h2>🔧 Technologies and Tools</h2>
