@@ -1,10 +1,10 @@
 
  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi! Welcome to my repo.
  
- <div style="text-align:center">
-    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
-    <p>Hi! Welcome to my repo.</p>
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
+</p>
+<h1 align="center">Hi! Welcome to my repo.</h1>
 
 <!-- Animation Typing -->
 
