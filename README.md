@@ -81,4 +81,9 @@ src="https://img.shields.io/twitter/follow/stevedevex?logo=twitter&style=for-the
   </a>
 </div>
 
-<a href="https://github.com/Stevecmd" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevecmd&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+  <a href="https://github.com/Stevecmd" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevecmd&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  </a>
+</div>
+
