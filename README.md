@@ -95,5 +95,5 @@ src="https://img.shields.io/twitter/follow/stevedevex?logo=twitter&style=for-the
 <hr> 
 
 <b align="centre">Publications</b>
-
-<p align="centre"> <a href="https://medium.com/@stevedevex" target="_blank" rel="noreferrer">📝 Check out my articles on Medium</p>
+ 
+<p align="centre"> <a href="https://medium.com/@stevedevex" target="_blank" rel="noreferrer">📝 Check out my articles <img padding-top: 2em; alt="Medium articles" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </p>
