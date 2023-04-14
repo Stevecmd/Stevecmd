@@ -68,6 +68,8 @@ src="https://img.shields.io/twitter/follow/stevedevex?logo=twitter&style=for-the
 
 <hr>
 
+- 📝 I regularly write articles on [https://medium.com/@stevedevex](https://medium.com/@stevedevex) 
+<hr> 
 ### Let's connect
 
 <p align="centre"> <a href="https://www.github.com/Stevecmd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/steve-murimi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/stevedevex" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
