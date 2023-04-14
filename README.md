@@ -93,5 +93,5 @@ src="https://img.shields.io/twitter/follow/stevedevex?logo=twitter&style=for-the
 </div>
 
 <div align="centre">
-- 📝 I regularly write articles on [https://medium.com/@stevedevex](https://medium.com/@stevedevex) 
+- 📝 I regularly write articles on Medium ![https://medium.com/@stevedevex](https://medium.com/@stevedevex) 
  </div>
