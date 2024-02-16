@@ -19,12 +19,14 @@
 
 <hr>
 
-☁️ AWS Cloud architect 🌟 Flutter Developer and designer, 🌟 Jnr. Python engineer 
-------------------------------------------------------------------------------------------------------------------------------------
+<div align="center">☁️ AWS & GCP Cloud architect  </div>
+<div align="center">🌟 DevOps engineer, </div>
+<div align="center">🌟 Python engineer </div>
+<hr>
 
 I have been learning to code since the covid pandemic started mid 2020 and so far it as been quite a fulfilling journey. I started of with HTML, JS, CSS, nodejs, MongoDB etc but have since found a passion for Flutter, Dart and Python. I made the switch from UI development towards software engineering as I have always loved to tinker with things more specifically computers and having both front end and backend skills helps me do just that.
 
-PS Most of my projects are offline but I will be uploading them periodically.
+PS Most of my projects are offline but I occasionally upload them.
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  Contact me at [murimi101@gmail.com](mailto:murimi101@gmail.com)
@@ -64,6 +66,7 @@ src="https://img.shields.io/twitter/follow/stevedevex?logo=twitter&style=for-the
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://cloud.withgoogle.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="150" height="150" alt="Google Cloud" /></a>
 
 <hr> 
 <div align="center">
@@ -77,12 +80,12 @@ src="https://img.shields.io/twitter/follow/stevedevex?logo=twitter&style=for-the
 <h2 align="centre">🔖 Publications</h2>
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@stevedevex)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://stevecmd.hashnode.dev/) 
  </div>
  <hr>
 
 ### 👀 View my Holopin badges
 [![@stevecmd's Holopin Board](https://holopin.me/stevecmd)](https://holopin.io/@stevecmd)
-
 <hr>
  
 <b>📈 My Github Stats</b>
@@ -98,5 +101,4 @@ src="https://img.shields.io/twitter/follow/stevedevex?logo=twitter&style=for-the
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevecmd&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   </a>
 </div>
- 
 <hr> 
