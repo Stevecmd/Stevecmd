@@ -79,7 +79,7 @@ src="https://img.shields.io/twitter/follow/stevedevex?logo=twitter&style=for-the
 <div align="center">
 <h2 align="centre">🔖 Publications</h2>
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@stevedevex)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@stevecmd)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://stevecmd.hashnode.dev/) 
  </div>
  <hr>
