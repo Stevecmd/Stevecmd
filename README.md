@@ -24,14 +24,15 @@
 <div align="center">🌟 Python engineer </div>
 <hr>
 
-I have been learning to code since the covid pandemic started mid 2020 and so far it as been quite a fulfilling journey. I started of with HTML, JS, CSS, nodejs, MongoDB etc but have since found a passion for Flutter, Dart and Python. I made the switch from UI development towards software engineering as I have always loved to tinker with things more specifically computers and having both front end and backend skills helps me do just that.
+I have been learning to code since the covid pandemic started mid 2020 and so far it as been quite a fulfilling journey. I started of with HTML, JS, CSS, nodejs, MongoDB etc but have since found a passion for Cloud and DevOps. I made the switch from UI development towards software engineering as I have always loved to tinker with things more specifically computers and having both front end and backend skills helps me do just that.
 
 PS Most of my projects are offline but I occasionally upload them.
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  Contact me at [murimi101@gmail.com](mailto:murimi101@gmail.com)
-* 🧠  Flutter and Python enthusiast.
-* 🧠  Making daily improvements in my AWS Cloud engineer journey.
+* 🧠  C and Python enthusiast.
+* 🧠  Making daily improvements in my Cloud engineer journey.
+* 🧠  I am curious about AI and ML especially its applications in life eg AI for racing.
 * 🤝  I'm open to collaborating on All sorts of interesting projects especially those that are multifaceted in terms of concept adoption and idea integration.
 * ⚡  I secretly moonlight as an advocate but am happiest when coding.
 
